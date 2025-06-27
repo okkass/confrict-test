@@ -7,6 +7,9 @@ def say_hello():
 def hoge():
     print("hoge")
 
+def get_unko(food: str):
+    print(f"{food}はうんこになりました！")
+
 
 if __name__ == "__main__":
     say_poka()
