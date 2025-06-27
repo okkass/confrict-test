@@ -4,6 +4,9 @@ def say_poka():
 def say_hello():
     print("Hello!!!")
 
+def get_unko(food: str):
+    print(f"{food}はうんこになりました！")
+
 
 if __name__ == "__main__":
     say_poka()
