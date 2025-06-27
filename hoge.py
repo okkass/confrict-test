@@ -11,6 +11,8 @@ def get_unko(food: str):
     print(f"{food}はうんこになりました！")
 
 
+a=10
+
 if __name__ == "__main__":
     say_poka()
     say_hello()
